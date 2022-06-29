@@ -34,7 +34,7 @@ This is a Javascript Blockchain/Smart Contract.
 ## Quickstart
 
 ```
-git clone
+git clone https://github.com/chuukwuemeka/hardhat-fund-me
 cd hardhat-fund-me
 yarn
 ```
